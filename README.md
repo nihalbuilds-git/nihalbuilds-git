@@ -58,7 +58,7 @@
 > A scalable AI-driven marketing SaaS platform with frontend architecture built for growth. Integrated APIs for marketing automation and actionable insights.
 
 ### 📄 ViralGen AI — Multi-Modal Ad Content Generator | Python · JavaScript · Generative AI 
-> Generates professional, ATS-friendly resumes using AI. Features dynamic form handling and automated content generation for a seamless user experience.
+– Developed a multi-modal ad content generation platform leveraging Generative AI APIs to produce targeted marketing copy, visuals, and campaign 
 
 ---
 
